@@ -1,0 +1,15 @@
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\bin\Debug\net6.0\infoGetterConsoleVersion.exe
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\bin\Debug\net6.0\infoGetterConsoleVersion.deps.json
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\bin\Debug\net6.0\infoGetterConsoleVersion.runtimeconfig.json
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\bin\Debug\net6.0\infoGetterConsoleVersion.dll
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\bin\Debug\net6.0\infoGetterConsoleVersion.pdb
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.csproj.AssemblyReference.cache
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.AssemblyInfoInputs.cache
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.AssemblyInfo.cs
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.csproj.CoreCompileInputs.cache
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.dll
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\refint\infoGetterConsoleVersion.dll
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.pdb
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\infoGetterConsoleVersion.genruntimeconfig.cache
+C:\Users\BzMus\source\repos\infoGetterConsoleVersion\infoGetterConsoleVersion\obj\Debug\net6.0\ref\infoGetterConsoleVersion.dll
